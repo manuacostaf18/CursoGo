@@ -3,7 +3,7 @@ package main
 import (
 	//"fmt"
 	"encoding/json"
-	"C:/Users/manua/OneDrive/Documentos/GO/Curso Udemy 1/Sección 4/structs/structs"
+	"github.com/manuacostaf18/CursoGo/Sec4/structs"
 	"net/http"
 )
 
