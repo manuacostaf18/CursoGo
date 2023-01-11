@@ -3,7 +3,7 @@ package main
 import (
 	//"fmt"
 	"encoding/json"
-	"github.com/manuacostaf18/CursoGo/Sec4/structs"
+	"github.com/manuacostaf18/CursoGo/tree/main/Sec4/structs"
 	"net/http"
 )
 
